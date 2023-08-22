@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml SUCARNET -->
+<pais nombre="El Salvador">
+  <!-- DEPARTAMENTO 01 -->
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <codigoPostal>01101</codigoPostal>&gt;
+    <idioma>Español</idioma>
+    <areaTerritorial>72,25 km²</areaTerritorial>
+    <gentilicio>Capitalino</gentilicio>&gt;
+  </departamento>
+
+<!-- DEPARTAMENTO 02 -->
+  <departamento id="2" nombre="Santa Ana">
+    <cabecera>San Ana</cabecera>
+    <habitantes>272,554</habitantes>
+    <altura>665 MSNM</altura>
+    <codigoPostal>02201</codigoPostal>&gt;
+    <idioma>Español</idioma>
+    <areaTerritorial>408 km²</areaTerritorial>
+    <gentilicio>Santaneco/a</gentilicio>&gt;
+  </departamento>
+</pais>
