@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="CS21024-Ejemplo1b.css" ?>
 <!-- ejemplo1.xml CS21024-->
 <fichero>
+  <titulo>EJERCICIO 1B</titulo>
   <!-- Ficha 1 -->
   <ficha id="1" fechaingreso="1/11/2012">
     <nombre>Antonio</nombre>

@@ -1,0 +1,24 @@
+fichero {
+  color: white;
+  background-color: gray;
+  text-align: center;
+  width: 100%;
+}
+
+titulo {
+  color: green;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: powderblue;
+}
+
+titulo, direccion, telefono, email, url {
+  font-size: 25px; /* Aumentar el tamaño del texto */
+  display: block;
+}
+
+nombre, apellido {
+  font-size: 60px; /* Aumentar el tamaño del texto */
+  font-weight: bold;
+  margin: 0 auto; /* Agregar margen automático para centrar */
+}

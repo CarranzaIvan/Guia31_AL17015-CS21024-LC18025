@@ -1,0 +1,39 @@
+ficha {
+  color: white;
+  display: table;
+  width: 60%;
+  font-size: 50px;
+  font-weight: bold;
+  background-image: url(https://userscontent2.emaze.com/images/f9538183-0ff9-478f-b964-c8ab90421e3b/3d28e192fda5c17250f96a2779c84475.jpg);
+  border: 1px solid black;  /*Creacion de cuadro*/
+            padding: 10px;
+            margin: 15px auto; /*Centrado de cuadro*/
+}
+
+fichero {
+	background-color: #333;
+	padding-top: 10px;
+}
+
+titulo, direccion, telefono, email, url, dui, afp, isss, nacionalidad, ocupacion, nacimiento {
+  font-size: 25px; /* Aumentar el tamaño del texto */
+  display: block;
+}
+
+direccion, telefono, email, url, dui, afp, isss, nacionalidad, ocupacion, nacimiento {
+  margin-left: 20px;
+}
+
+nombre, apellido {
+  font-family: "Arial Black", Arial, sans-serif;/* Fuente */
+  font-size: 35px; /* Aumentar el tamaño del texto */
+  font-weight: bold;
+}
+
+titulo {
+  color: green;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: lightgreen;
+  text-align: center;
+}
