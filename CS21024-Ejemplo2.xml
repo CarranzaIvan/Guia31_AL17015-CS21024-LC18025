@@ -1,14 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<!-- ejemplo2.xml SUCARNET -->
-<pais nombre="El Salvador">
-  <!-- DEPARTAMENTO 01 -->
-  <departamento id="1" nombre="San Salvador">
-    <cabecera>San Salvador</cabecera>
-    <habitantes>1,700,000</habitantes>
-    <altura>545 MSNM</altura>
-    <moneda></moneda>
-    <codigoTelefono></codigoTelefono>
-    <idioma></idioma>
-    <areaTerritorial></areaTerritorial>
-  </departamento></pais>
-</pais>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<!-- ejemplo1.xml SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+</fichero>
