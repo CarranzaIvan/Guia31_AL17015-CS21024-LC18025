@@ -1,0 +1,36 @@
+﻿{
+    "pais": {
+        "capital": "San salvador",
+        "superficie": "21.040 Km2",
+        "habitantes": "6.314.167",
+        "formadegobierno": "Republica presidenciable",
+        "moneda": "dolar, colon. bitcoin",
+        "idioma": "Español, Nahuat",
+        "gentilicio": "Salvadoreño",
+        "codigodearea": "503",
+        "departamento": [
+            {
+                "cabecera": "San Salvador",
+                "habitantes": "1,700,000",
+                "altura": "545 MSNM",
+                "_id": "1",
+                "_nombre": "San Salvador"
+            },
+            {
+                "cabecera": "Usulutan",
+                "habitantes": "73,064",
+                "altura": "90 MSNM",
+                "_id": "2",
+                "_nombre": "Usulutan"
+            },
+            {
+                "cabecera": "Santa tecla",
+                "habitantes": "843 500",
+                "altura": "30 MSNM",
+                "_id": "3",
+                "_nombre": "La libertad"
+            }
+        ],
+        "_nombre": "El Salvador"
+    }
+}

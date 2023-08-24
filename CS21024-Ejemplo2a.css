@@ -1,0 +1,50 @@
+/* CS21024-ejemplo2a.css   CS21024  */
+pais {
+  color: black;
+  background-color: skyblue;
+  text-align: center;
+  width: 100%;
+}
+
+ejemplo{
+  color: gray;
+  font-size: 90px;
+  font-weight: bold;
+  background-color: white;
+}
+
+nombre{
+  color: white;
+  font-size: 90px;
+  font-weight: bold;
+  background-color: gray;
+}
+moneda,idioma,codigodearea{
+  color: black;
+  font-size: 90px;
+  font-weight: bold;
+  background-color: white;
+}
+departamento {
+  display: table-row;
+}
+
+nondepa,cabecera, habitantes,altura  {
+  border: black 1px solid;
+  display: table-cell;
+}
+
+ejemplo{
+  font-size: 50px; 
+  display: block;
+}
+nombre,moneda,idioma,codigodearea {
+  font-size: 40px; 
+  font-weight: bold;
+  display: block;
+}
+nondepa,cabecera, habitantes,altura {
+  font-size: 30px; 
+  font-weight: bold;
+  display: block;
+}
