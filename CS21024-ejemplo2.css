@@ -1,0 +1,25 @@
+/* CS21024-ejemplo2.css   CS21024  */
+pais {
+  color: black;
+  background-color: skyblue;
+  text-align: center;
+  width: 100%;
+}
+
+ejemplo{
+  color: gray;
+  font-size: 70px;
+  font-weight: bold;
+  background-color: white;
+}
+
+ejemplo{
+  font-size: 40px; 
+  display: block;
+}
+
+cabecera, habitantes,altura {
+  font-size: 30px; 
+  font-weight: bold;
+  display: block;
+}

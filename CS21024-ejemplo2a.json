@@ -1,0 +1,24 @@
+﻿{
+    "pais": {
+        "moneda": "dolar, colon. bitcoin",
+        "idioma": "Español,Nahuat",
+        "codigodearea": "503",
+        "departamento": [
+            {
+                "cabecera": "San Salvador",
+                "habitantes": "1,700,000",
+                "altura": "545 MSNM",
+                "_id": "1",
+                "_nombre": "San Salvador"
+            },
+            {
+                "cabecera": "Usulutan",
+                "habitantes": "73,064",
+                "altura": "90 MSNM",
+                "_id": "2",
+                "_nombre": "Usulutan"
+            }
+        ],
+        "_nombre": "El Salvador"
+    }
+}

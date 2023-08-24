@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="CS21024-ejemplo2b.css"?>
+<!-- ejemplo2b.xml  CS21024 -->
+<pais nombre="El Salvador">
+<ejemplo>Ejemplo2b</ejemplo>
+<nombre>"El Salvador"</nombre>
+<capital>San salvador</capital>
+<superficie>21.040 Km2</superficie>
+<totalhabitantes>6.314.167</totalhabitantes>
+<formadegobierno>Republica presidenciable</formadegobierno>
+<moneda>dolar, colon. bitcoin</moneda>
+<idioma>Español, Nahuat</idioma>
+<gentilicio>Salvadoreño</gentilicio>
+<codigodearea>503</codigodearea>
+<lista nombre="lista departamentos">
+<departamento id="1" nombre="San Salvador">
+<nondepa>San salvador</nondepa>
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="Usulutan">
+<nondepa>Usulutan</nondepa>
+<cabecera>Usulutan</cabecera>
+<habitantes>73,064</habitantes>
+<altura>90 MSNM</altura>
+</departamento>
+<departamento id="3" nombre="La libertad">
+<nondepa>La libertad</nondepa>
+<cabecera>Santa tecla</cabecera>
+<habitantes>843 500</habitantes>
+<altura>30 MSNM</altura>
+</departamento>
+</lista>
+</pais>
